@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
-
+- 🏢 自我介绍
+- 🚀 常用：C++ Python
+<!--   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python) -->
+- 💻 项目介绍
 <!--
 **vtasStu/vtasStu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
